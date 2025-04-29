@@ -3,7 +3,7 @@
 
 This is the frontend of the **Event Booking Management System**, built with React and styled using Tailwind CSS.
 
-## 🚀 Features
+## 🚀 Features 
 - User authentication (Login/Register)
 - View available events
 - Book events
